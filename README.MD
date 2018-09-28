@@ -1,7 +1,7 @@
  
 This project of using SQLIte with Ionic
 
-## How to run this example
+## How to run this project
 
 ### With the Ionic CLI:
 
@@ -28,11 +28,3 @@ $ ionic cordova run ios
 
 
 
-##Speed up development with the Ionic DevApp, our fast, on-device testing mobile app
-```bash
-  -     Test on iOS and Android without Native SDKs
-  -     LiveReload for instant style and JS updates
-
- -->    Install DevApp: https://bit.ly/ionic-dev-app    <--
-```
-------------------------------------------------------------
